@@ -76,6 +76,6 @@ Desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado e
   <li>
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="sqlite" height="30" width="40" src="https://raw.githubusercontent.com/michelsantana/michelsantana/master/img/sqlite.gif">
+  <img align="center" alt="sqlite" height="30" width="40" src="https://raw.githubusercontent.com/michelsantana/michelsantana/main/img/sqlite.png">
   </li>
 </details>
