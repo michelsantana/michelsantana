@@ -1,5 +1,14 @@
-## Sou desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado em **Engenharia** de Software pela **FIAP**
+## Oi, Sou Michel Santana! (☕👨‍💻🎮🔎🐞)
+<!--desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado em **Engenharia** de Software pela **FIAP**-->
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mchlsntn)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mich3l.santana0@gmail.com)](mailto:mich3l.santana0@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hackerzao)](https://twitter.com/hackerzao) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mchlsntn/)](https://instagram.com/mchlsntn) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/mchlsntn)](https://facebook.com/mchlsntn)
+
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Sou desenvolvedor+de+software;apaixonado+por+tecnologia;Amo+criar+coisas;Bem+vindo!+😁)](https://git.io/typing-svg)-->
+Desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado em **Engenharia** de Software pela **FIAP**
 
 <div align="left">
   <a href="https://github.com/michelsantana">
@@ -21,3 +30,11 @@
 
   <!--<img align="right" alt="Mchl-pic" height="150" style="border-radius:50px;" src="">-->
 </div>
+
+  ### More about me:
+
+- 👨💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+- 🤝 Open for collaborations in web development 🕸️
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs
+- 🌐 Visit my [porfolio website](https://manumanoj.me) for complete background and contact.
+- 📝 &nbsp; Checkout my [Resume](https://manumanoj.me/Resume.pdf).
