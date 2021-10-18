@@ -1,7 +1,7 @@
 ## Sou desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado em **Engenharia** de Software pela **FIAP**
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/michelsantana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelsantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelsantana&theme=dracula"/>
