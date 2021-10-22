@@ -1,4 +1,4 @@
-## Oi, Sou Michel Santana! (☕👨‍💻🎮🔎🐞)
+## Oi, Sou Michel Santana! <br>☕👨‍💻🎮🔎🐞
 
 <!--desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado em **Engenharia** de Software pela **FIAP**-->
 
@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hackerzao)](https://twitter.com/hackerzao)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mchlsntn/)](https://instagram.com/mchlsntn)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/mchlsntn)](https://facebook.com/mchlsntn)
-
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white&link=https://medium.com/@mchlsntn)](https://medium.com/@mchlsntn)
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Sou desenvolvedor+de+software;apaixonado+por+tecnologia;Amo+criar+coisas;Bem+vindo!+😁)](https://git.io/typing-svg)-->
 
 Desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado em **Engenharia** de Software pela **FIAP**
@@ -44,21 +44,24 @@ Desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado e
 - 📚 Tenho estudado sobre padrões de projetos
 - 💡 Eu amo criar coisas que surgem como ideias repentinas e malucas na minha mente
 - 🌈 Tenho uma ótima criatividade para resolução de problemas
+- 🤓 Estou iniciando uma página no medium
 <!-- - 📝 &nbsp; Checkout my [Resume](https://manumanoj.me/Resume.pdf). -->
 
 
 # Projetos pessoais
 
 ## 🌎 [Mapas de jogos](https://mapasdejogos.com.br)
-<details>	
-  <summary><b>Detalhes</b></summary><br/>
-  
 - [🔗 Mapas de Jogos](https://mapasdejogos.com.br)
 - 🟢 Online
 - 🔒 Privado
-- 📝 Mapas de jogos é a evolução do projeto OnePineApp<br>
-    Foi desenvolvido para que qualquer pessoa possa salvar marcações e acessar quando quiser<br>
-    Pode criar um time de contribuidores para mapeamento conjunto em tempo real
+- 📝 Mapas de jogos é uma ferramenta de **mapas interativos** para jogos. <br>
+    O intuito da ferramenta é que os usuários possam salvar e compartilhar pins, icones, áreas e até rabiscos de forma 
+    rápida e simples nos mapas de seus jogos favoritos. E posteriormente acessem de qualquer dispositivo.
+    Sem burocrácia e sem que tenham seus dados escavados por plugins de rastreamento.
+    Esse projeto é a evolução do OnepineApp (descrito mais abaixo)<br>
+<details>	
+  <summary><b>Tecnologias aplicadas</b></summary><br/>
+  
 - <div style="display: inline_block">
   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="dot-net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
@@ -75,35 +78,16 @@ Desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado e
   </div>
 </details>
 
-
----
-## 😂 [O Sommelier de memes](https://instagram.com/o_sommemelier)
-<details>	
-  <summary><b>Detalhes</b></summary><br/>
-
-- 🔗 [o_sommemelier Instagram](https://instagram.com/o_sommemelier)
-- 🟢 Online
-- 🔒 Privado
-- 📝 Robô e um dashboard que gerencia e gera postagens para página no instagram.<br>
-    Extrai postagens, edita imagens via linha de comando e posta com apenas 1 clique.
-- <div style="display: inline_block">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="sqlite" height="30" width="40" src="https://raw.githubusercontent.com/michelsantana/michelsantana/main/img/sqlite.png">
-  <img align="center" alt="puppeteer" height="30" width="40" src="https://pptr.dev/favicons/favicon.ico">
-  </div>
-</details>
-
 ---
 ## ⚽ [Futebox Youtube](https://www.youtube.com/channel/UCWs2h6plWKR8xCZM3ljNGRw)
-<details>	
-  <summary><b>Detalhes</b></summary><br/>
-
 - 🔗 [Futebox Youtube](https://www.youtube.com/channel/UCWs2h6plWKR8xCZM3ljNGRw)
 - 🟢 Online
 - 🔓 [Aberto](https://github.com/michelsantana/futebox)
-- 📝 Robô e dashboard que gera vídeos para o canal Futebox no youtube.<br>
+- 📝 Um Robô e um dashboard que gera vídeos automáticamente para o canal Futebox no youtube.<br>
 Extrai dados, gera thumbnails, gera título, descrição, tags, audio e vídeo em 1080p com informações atualizados sobre futebol<br>
+<details>	
+  <summary><b>Tecnologias aplicadas</b></summary><br/>
+
 - <div style="display: inline_block">
   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -121,9 +105,27 @@ Extrai dados, gera thumbnails, gera título, descrição, tags, audio e vídeo e
 
 
 ---
-## 📍 [OnepineApp](https://onepineapp.com)
+## 😂 [O Sommelier de memes](https://instagram.com/o_sommemelier)
 <details>	
-  <summary><b>Detalhes</b></summary><br/>
+  <summary><b>Detalhes do projeto</b></summary><br/>
+
+- 🔗 [o_sommemelier Instagram](https://instagram.com/o_sommemelier)
+- 🟢 Online
+- 🔒 Privado
+- 📝 Robô e um dashboard que gerencia e gera postagens para página no instagram.<br>
+    Extrai postagens, edita imagens via linha de comando e posta com apenas 1 clique.
+- <div style="display: inline_block">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="sqlite" height="30" width="40" src="https://raw.githubusercontent.com/michelsantana/michelsantana/main/img/sqlite.png">
+  <img align="center" alt="puppeteer" height="30" width="40" src="https://pptr.dev/favicons/favicon.ico">
+  </div>
+</details>
+
+---
+## 📍 OnepineApp
+<details>	
+  <summary><b>Detalhes do projeto</b></summary><br/>
 
 - 🔗 [OnepineApp](https://onepineapp.com)
 - 🔴 Offline
