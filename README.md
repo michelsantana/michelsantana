@@ -48,9 +48,9 @@ Desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado e
 <!-- - 📝 &nbsp; Checkout my [Resume](https://manumanoj.me/Resume.pdf). -->
 
 
-# Projetos pessoais
+## Projetos pessoais
 
-## 🌎 [Mapas de jogos](https://mapasdejogos.com.br)
+### 🌎 [Mapas de jogos](https://mapasdejogos.com.br)
 - [🔗 Mapas de Jogos](https://mapasdejogos.com.br)
 - 🟢 Online
 - 🔒 Privado
@@ -79,7 +79,7 @@ Desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado e
 </details>
 
 ---
-## ⚽ [Futebox Youtube](https://www.youtube.com/channel/UCWs2h6plWKR8xCZM3ljNGRw)
+### ⚽ [Futebox Youtube](https://www.youtube.com/channel/UCWs2h6plWKR8xCZM3ljNGRw)
 - 🔗 [Futebox Youtube](https://www.youtube.com/channel/UCWs2h6plWKR8xCZM3ljNGRw)
 - 🟢 Online
 - 🔓 [Aberto](https://github.com/michelsantana/futebox)
@@ -105,7 +105,7 @@ Extrai dados, gera thumbnails, gera título, descrição, tags, audio e vídeo e
 
 
 ---
-## 😂 [O Sommelier de memes](https://instagram.com/o_sommemelier)
+### 😂 [O Sommelier de memes](https://instagram.com/o_sommemelier)
 <details>	
   <summary><b>Detalhes do projeto</b></summary><br/>
 
@@ -123,7 +123,7 @@ Extrai dados, gera thumbnails, gera título, descrição, tags, audio e vídeo e
 </details>
 
 ---
-## 📍 OnepineApp
+### 📍 OnepineApp
 <details>	
   <summary><b>Detalhes do projeto</b></summary><br/>
 
