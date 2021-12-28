@@ -52,7 +52,7 @@ Desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado e
 
 ### 🌎 [Mapas de jogos](https://mapasdejogos.com.br)
 - [🔗 Mapas de Jogos](https://mapasdejogos.com.br)
-- 🟢 Online
+- �🟠 Pausado
 - 🔒 Privado
 - 📝 Mapas de jogos é uma ferramenta de **mapas interativos** para jogos. <br>
     O intuito da ferramenta é que os usuários possam salvar e compartilhar pins, icones, áreas e até rabiscos de forma 
