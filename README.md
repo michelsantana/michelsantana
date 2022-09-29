@@ -34,17 +34,17 @@ Desenvolvedor, apaixonado por tecnologia e amo criar coisas. <br>Pós graduado e
   <img align="center" alt="bulma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
   <img align="center" alt="leaflet" height="30" width="40" src="https://leafletjs.com/docs/images/favicon.ico">
   <img align="center" alt="openlayers" height="30" width="40" src="https://openlayers.org/assets/theme/img/favicon.ico">
-  <img align="center" alt="puppeteer" height="30" width="40" src="https://pptr.dev/favicons/favicon.ico">
+  <img align="center" alt="puppeteer" height="30" width="40" src="https://raw.githubusercontent.com/puppeteer/pptr.dev/master/docs/favicons/favicon.ico">
   <!--<img align="right" alt="Mchl-pic" height="150" style="border-radius:50px;" src="">-->
 </div>
 
 ### Um pouco mais sobre mim:
 
-- 💻 Atualmente estou trabalhando no Banco Alfa
+- 💻 Atualmente estou trabalhando na Turbi
 - 📚 Tenho estudado sobre padrões de projetos
 - 💡 Eu amo criar coisas que surgem como ideias repentinas e malucas na minha mente
 - 🌈 Tenho uma ótima criatividade para resolução de problemas
-- 🤓 Estou iniciando uma página no medium
+<!-- - 🤓 Estou iniciando uma página no medium -->
 <!-- - 📝 &nbsp; Checkout my [Resume](https://manumanoj.me/Resume.pdf). -->
 
 
@@ -99,7 +99,7 @@ Extrai dados, gera thumbnails, gera título, descrição, tags, audio e vídeo e
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="msdos" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg">
-  <img align="center" alt="puppeteer" height="30" width="40" src="https://pptr.dev/favicons/favicon.ico">
+  <img align="center" alt="puppeteer" height="30" width="40" src="https://raw.githubusercontent.com/puppeteer/pptr.dev/master/docs/favicons/favicon.ico">
   </div>
 </details>
 
@@ -118,7 +118,7 @@ Extrai dados, gera thumbnails, gera título, descrição, tags, audio e vídeo e
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="sqlite" height="30" width="40" src="https://raw.githubusercontent.com/michelsantana/michelsantana/main/img/sqlite.png">
-  <img align="center" alt="puppeteer" height="30" width="40" src="https://pptr.dev/favicons/favicon.ico">
+  <img align="center" alt="puppeteer" height="30" width="40" src="https://raw.githubusercontent.com/puppeteer/pptr.dev/master/docs/favicons/favicon.ico">
   </div>
 </details>
 
